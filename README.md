@@ -2,8 +2,9 @@
 Projeto que simula um website de divulgação de uma modelo fictícia com variaçãs seções ,tais como : Home, campanhas publicitárias, biografia e contato.
 <br><br>
 *Seção Home* :
-<br><br>
+<br>
 ![](./imagens/modelo2.png)
+<br><br>
 *Seção campanhas publicitárias* :
 <br>
 ![](./imagens/modelo1.png)
